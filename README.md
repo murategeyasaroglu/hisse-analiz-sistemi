@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nioobx7qefef2qlxj4irum.streamlit.app/)
 # 📈 Otonom Hisse Etki Skoru & Analiz Paneli
 
 BIST ve küresel hisse senetleri için canlı nicel bilanço verilerini ve niteliksel haber analizlerini birleştiren hibrit karar destek sistemi.
