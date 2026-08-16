@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Config & Secret Keys
+.env
+.vscode/
+.idea/
